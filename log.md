@@ -10,7 +10,12 @@
 **Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
 
 ### Tag 1: 18. August 2023
-##### (lösche mich oder kommentiere mich aus)
+
+
+Tut angeschaut wie man mit React Startet danach 
+
+https://www.youtube.com/watch?v=5vAYvbTxfjA
+https://www.youtube.com/watch?v=DnmLS9Wz97s
 
 **Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
 
